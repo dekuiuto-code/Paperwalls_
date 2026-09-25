@@ -1,18 +1,17 @@
 {
   "current_version": {
+    "enabled": true,
     "version": "1.1.0",
     "version_code": 110,
-    "minimum_required_version_code": 110,
+    "minimum_required_version_code": 100,
     "release_date": "2026-09-25",
     "is_force_update": false,
     "show_later_button": true,
-    "title": "Update Required 🚀",
-    "message": "A required update is available. Please update Paperwalls to version 1.1.0 to continue using the app.",
+    "title": "Update Available ✨",
+    "message": "A new version of Paperwalls (v1.1.0) is available.",
     "changelog": [
-      "Direct real-time GitHub update engine",
-      "Faster wallpaper decoding & smoother scrolling",
-      "Critical security & stability improvements",
-      "Bug fixes and UI optimizations"
+      "Smoother scrolling and faster image loading",
+      "Bug fixes and UI improvements"
     ],
     "download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases/latest"
   }

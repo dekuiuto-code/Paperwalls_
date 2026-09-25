@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "is_terminated": false,
+    "is_terminated":false,
     "termination_message": "This app version is no longer supported. Please update to version 2.0 to continue.",
     "termination_action_url": "https://example.com/downloads/app-v2.0.0.apk"
   },

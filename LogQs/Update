@@ -4,7 +4,7 @@
     "version_code": 110,
     "minimum_required_version_code": 110,
     "release_date": "2026-09-25",
-    "is_force_update": true,
+    "is_force_update": false,
     "show_later_button": true,
     "title": "Update Required 🚀",
     "message": "A required update is available. Please update Paperwalls to version 1.1.0 to continue using the app.",

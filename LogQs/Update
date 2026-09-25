@@ -1,41 +1,52 @@
 {
   "app_status": {
     "is_terminated": false,
-    "termination_message": "",
-    "termination_action_url": ""
+    "termination_message": "This app version is no longer supported. Please update to version 2.0 to continue.",
+    "termination_action_url": "https://example.com/downloads/app-v2.0.0.apk"
   },
   "current_version": {
-    "version": "1.1.0",
-    "version_code": 110,
-    "minimum_required_version_code": 100,
+    "version": "2.0.0",
+    "version_code": 200,
+    "minimum_required_version_code": 200,
     "release_date": "2026-09-25",
-    "is_force_update": false,
+    "is_force_update": true,
     "changelog": [
-      "Improved web fetching performance",
-      "Fixed UI layout issues on smaller screens"
+      "Major update with full v2.0 feature engine",
+      "Performance and security improvements",
+      "Updated web browsing interface"
     ],
-    "download_url": "https://example.com/downloads/app-v1.1.0.apk"
+    "download_url": "https://example.com/downloads/app-v2.0.0.apk"
   },
   "next_version": {
-    "version": "1.2.0-beta",
-    "version_code": 120,
+    "version": "2.1.0-beta",
+    "version_code": 210,
     "status": "in_development",
     "expected_release_date": "2026-10-15",
-    "beta_testing_enabled": true,
+    "beta_testing_enabled": false,
     "preview_features": [
       "Custom user agent switcher",
       "Tabbed browsing support"
     ],
-    "beta_download_url": "https://example.com/downloads/app-v1.2.0-beta.apk"
+    "beta_download_url": "https://example.com/downloads/app-v2.1.0-beta.apk"
   },
   "version_history": [
     {
       "version": "1.0",
       "version_code": 100,
-      "status": "active",
+      "status": "terminated",
       "release_date": "2026-01-01",
       "changelog": [
         "Initial release of the website fetching app"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "version_code": 110,
+      "status": "deprecated",
+      "release_date": "2026-09-25",
+      "changelog": [
+        "Improved web fetching performance",
+        "Fixed UI layout issues on smaller screens"
       ]
     }
   ]

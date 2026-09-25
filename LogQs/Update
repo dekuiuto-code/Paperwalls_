@@ -2,29 +2,16 @@
   "current_version": {
     "version": "1.1.0",
     "version_code": 110,
-    "minimum_required_version_code": 110,
+    "minimum_required_version_code": 100,
     "release_date": "2026-09-25",
-    "is_force_update": true,
-    "title": "Update Required 🚀",
-    "message": "A new version of Paperwalls (v1.1.0) is available! Please update to continue enjoying the latest wallpapers and performance improvements.",
+    "is_force_update": false,
+    "title": "New Update Available ✨",
+    "message": "A new version of Paperwalls (v1.1.0) is available.",
     "changelog": [
       "Real-time update engine integrated with GitHub",
       "Smoother wallpaper scrolling & faster image decoding",
-      "Enhanced security & stability fixes",
-      "Optimized battery & network caching"
+      "Enhanced security & stability fixes"
     ],
     "download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases/latest"
-  },
-  "next_version": {
-    "version": "1.2.0-beta",
-    "version_code": 120,
-    "status": "in_development",
-    "expected_release_date": "2026-10-15",
-    "beta_testing_enabled": false,
-    "preview_features": [
-      "Custom user agent switcher",
-      "Tabbed wallpaper browsing"
-    ],
-    "beta_download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases"
   }
 }

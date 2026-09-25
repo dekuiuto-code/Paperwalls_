@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "enabled": true,
+      "enabled": false ,
       "version": "1.1.0",
       "version_code": 110,
       "minimum_required_version_code": 100,

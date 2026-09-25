@@ -1,53 +1,30 @@
 {
-  "app_status": {
-    "is_terminated":false,
-    "termination_message": "This app version is no longer supported. Please update to version 2.0 to continue.",
-    "termination_action_url": "https://example.com/downloads/app-v2.0.0.apk"
-  },
   "current_version": {
     "version": "2.0.0",
-    "version_code": 200,
-    "minimum_required_version_code": 200,
+    "version_code": 2,
+    "minimum_required_version_code": 2,
     "release_date": "2026-09-25",
     "is_force_update": true,
+    "title": "Update Required 🚀",
+    "message": "A required update is available. Please update Paperwalls to version 2.0.0 to continue using the app.",
     "changelog": [
-      "Major update with full v2.0 feature engine",
-      "Performance and security improvements",
-      "Updated web browsing interface"
+      "Direct real-time GitHub update engine",
+      "Faster wallpaper decoding & smoother scrolling",
+      "Critical security & stability improvements",
+      "Bug fixes and UI optimizations"
     ],
-    "download_url": "https://example.com/downloads/app-v2.0.0.apk"
+    "download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases/latest"
   },
   "next_version": {
     "version": "2.1.0-beta",
-    "version_code": 210,
+    "version_code": 3,
     "status": "in_development",
     "expected_release_date": "2026-10-15",
     "beta_testing_enabled": false,
     "preview_features": [
       "Custom user agent switcher",
-      "Tabbed browsing support"
+      "Tabbed wallpaper browsing"
     ],
-    "beta_download_url": "https://example.com/downloads/app-v2.1.0-beta.apk"
-  },
-  "version_history": [
-    {
-      "version": "1.0",
-      "version_code": 100,
-      "status": "terminated",
-      "release_date": "2026-01-01",
-      "changelog": [
-        "Initial release of the website fetching app"
-      ]
-    },
-    {
-      "version": "1.1.0",
-      "version_code": 110,
-      "status": "deprecated",
-      "release_date": "2026-09-25",
-      "changelog": [
-        "Improved web fetching performance",
-        "Fixed UI layout issues on smaller screens"
-      ]
-    }
-  ]
+    "beta_download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases"
+  }
 }

@@ -6,8 +6,8 @@
       "version_code": 110,
       "minimum_required_version_code": 100,
       "release_date": "2026-09-25",
-      "is_force_update": false,
-      "show_later_button": true,
+      "is_force_update": true,
+      "show_later_button": false,
       "title": "Update Available ✨",
       "message": "A new version of Paperwalls (v1.1.0) is available.",
       "changelog": [

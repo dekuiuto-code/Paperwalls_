@@ -4,7 +4,7 @@
     "version_code": 110,
     "minimum_required_version_code": 110,
     "release_date": "2026-09-25",
-    "is_force_update": true,
+    "is_force_update": false,
     "title": "Update Required 🚀",
     "message": "A new version of Paperwalls (v1.1.0) is available! Please update to continue enjoying the latest wallpapers and performance improvements.",
     "changelog": [

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ Paperwalls (SANKOU! Walls)
+# Paperwalls (SANKOU! Walls)
 
 **A high-performance, open-source wallpaper curation engine, lossless image viewer, and desktop styling hub.**
 

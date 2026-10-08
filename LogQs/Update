@@ -18,12 +18,12 @@
       "download_url": "https://github.com/dekuiuto-code/Paperwalls_/releases/tag/v1.1.0"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "version": "1.2.0",
       "version_code": 120,
       "minimum_required_version_code": 110,
       "release_date": "2026-10-15",
-      "is_force_update": false,
+      "is_force_update": true,
       "show_later_button": true,
       "title": "New Update Available 🚀",
       "message": "Paperwalls v1.2.0 is now available with exciting new features!",
